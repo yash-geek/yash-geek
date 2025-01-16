@@ -11,8 +11,6 @@
 - **Languages:** C++, JavaScript, Python, HTML, CSS  
 - **Frameworks & Tools:** React, MongoDB, Express.js, Node.js  
 
-> *"If you don’t take risks, you can’t create a future."* – Monkey D. Luffy 🏴‍☠️  
-
 ---
 
 ### 🌐 **Let's Connect:**
