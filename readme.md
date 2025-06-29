@@ -3,13 +3,11 @@
 🎓 **B.Tech Student** at NIT Karnataka  
 💻 **Aspiring Tech Enthusiast**  
 🌟 **Interests**: Programming, Problem Solving, and Building Cool Projects  
-🚀 **Currently Working On**: E-Commerce Project (using Next.js)  
-
 ---
 
 ### ⚙️ **Technologies I Work With:**
 - **Languages:** C++, JavaScript, Python, HTML, CSS  
-- **Frameworks & Tools:** React, MongoDB, Express.js, Node.js  
+- **Frameworks & Tools:** React, MongoDB, Express.js, Node.js
 
 ---
 
